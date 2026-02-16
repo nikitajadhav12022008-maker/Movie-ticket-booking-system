@@ -1,24 +1,25 @@
+##A movie ticket booking system:
 def calculate_final_price(base_price, age, seat_type, show_time, is_member, is_weekend):
     
-    # Eligibility Check
+    # Eligibility Check:
     if age < 18:
         print("❌ You must be at least 18 to book a ticket.")
         return None
 
-    # Evening show restriction
+    # Evening show restriction:
     if show_time == "Evening" and age < 21 and not is_member:
         print("❌ Evening shows are only for 21+ or members.")
         return None
 
     print("✅ Ticket booking condition satisfied")
 
-    # Discount
+    # Discount:
     discount = 3 if is_member and age >= 21 else 0
 
-    # Extra Charges
+    # Extra Charges:
     extra_charges = 2 if is_weekend or show_time == "Evening" else 0
 
-    # Service Charges
+    # Service Charges:
     if seat_type == "Premium":
         service_charges = 5
     elif seat_type == "Gold":
@@ -26,7 +27,7 @@ def calculate_final_price(base_price, age, seat_type, show_time, is_member, is_w
     else:
         service_charges = 1
 
-    # Final Price Calculation
+    # Final Price Calculation:
     final_price = base_price + extra_charges + service_charges - discount
 
     return final_price
@@ -61,3 +62,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
