@@ -31,6 +31,14 @@ The program allows users to book cinema tickets with real-world conditions such 
 
 ---
 
+## 📁Project structure:
+
+- Movie ticket booking system/
+- |_______ movie_ticket_booking_system.py
+- |_______README.md
+
+----
+
 ##🖥️ How to Run:
 1. Install Python (3.8+)
 2. Download or clone this repository
@@ -39,12 +47,7 @@ The program allows users to book cinema tickets with real-world conditions such 
 python movie_ticket_booking_system.py
 ---
 
-##📁Project structure:
-Movie ticket booking system/
-|
-|_______ movie_ticket_booking_system.py
-|_______README.md
-----
+
 
 ##📌 Example Output:
 Enter your age: 22
