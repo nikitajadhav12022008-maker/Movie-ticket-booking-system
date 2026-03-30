@@ -51,7 +51,8 @@ python movie_ticket_booking_system.py
 
 
 
-##📌 Example Output:
+## 📌 Example Output:
+
 Enter your age: 22
 Enter seat type (Premium/Gold/Regular): Gold
 Enter show time (Morning/Evening): Evening
@@ -59,6 +60,7 @@ Are you a member? (yes/no): yes
 Is it weekend? (yes/no): no
 
 Final price of ticket: $17
+
 ---
 
 ##🎯 Purpose of Project:
