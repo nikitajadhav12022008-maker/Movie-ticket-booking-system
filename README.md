@@ -5,7 +5,8 @@ The program allows users to book cinema tickets with real-world conditions such 
 
 ---
 
-##🚀 Features:
+## 🚀 Features:
+
 - Age-based booking validation
 - Evening show restrictions
 - Membership discount system
@@ -14,6 +15,7 @@ The program allows users to book cinema tickets with real-world conditions such 
 - Continuous booking option
 - Input validation handling
 - Clean and modular code using functions
+ 
 ---
 
 ##🧠 Pricing Rules:
