@@ -18,15 +18,17 @@ The program allows users to book cinema tickets with real-world conditions such 
  
 ---
 
-##🧠 Pricing Rules:
--Condition| Effect
--Age < 18| Cannot book ticket
--Evening show| Only 21+ or members allowed
--Member & Age ≥ 21| ₹3 discount
--Weekend or Evening| ₹2 extra charge
--Premium seat| ₹5 service charge
--Gold seat| ₹3 service charge
--Regular seat| ₹1 service charge
+## 🧠 Pricing Rules:
+
+- Condition| Effect
+- Age < 18| Cannot book ticket
+- Evening show| Only 21+ or members allowed
+- Member & Age ≥ 21| ₹3 discount
+- Weekend or Evening| ₹2 extra charge
+- Premium seat| ₹5 service charge
+- Gold seat| ₹3 service charge
+- Regular seat| ₹1 service charge
+
 ---
 
 ##🖥️ How to Run:
