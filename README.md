@@ -39,12 +39,14 @@ The program allows users to book cinema tickets with real-world conditions such 
 
 ----
 
-##🖥️ How to Run:
+## 🖥️ How to Run:
+
 1. Install Python (3.8+)
 2. Download or clone this repository
 3. Run the program
 ```bash
 python movie_ticket_booking_system.py
+
 ---
 
 
