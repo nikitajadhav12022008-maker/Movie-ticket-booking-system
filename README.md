@@ -1,6 +1,8 @@
-##🎬 Movie Ticket Booking System (Python CLI):
+## 🎬 Movie Ticket Booking System (Python CLI):
+
 A console-based movie ticket booking application written in Python.
 The program allows users to book cinema tickets with real-world conditions such as age restrictions, membership discounts, weekend pricing, and seat categories.
+
 ---
 
 ##🚀 Features:
