@@ -63,13 +63,16 @@ Final price of ticket: $17
 
 ---
 
-##🎯 Purpose of Project:
-This project was created to practice:
+## 🎯 Purpose of Project:
+
+- This project was created to practice:
 - Python conditional logic
 - Functions
 - Input handling
 - Real-world problem solving
+
 ---
 
-##👩‍💻 Author
+## 👩‍💻 Author:
+
 Nikita Jadhav
