@@ -1,4 +1,4 @@
-#Python based A movie ticket booking system:
+#Python Based A movie ticket booking system:
 def calculate_final_price(base_price, age, seat_type, show_time, is_member, is_weekend):
     
     # Eligibility Check:
