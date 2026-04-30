@@ -39,6 +39,18 @@ The program allows users to book cinema tickets with real-world conditions such 
 
 ----
 
+## 📌 Example Output:
+
+- Enter your age: 22
+- Enter seat type (Premium/Gold/Regular): Gold
+- Enter show time (Morning/Evening): Evening
+- Are you a member? (yes/no): yes
+- Is it weekend? (yes/no): no
+
+- Final price of ticket: $17
+
+---
+
 ## 🖥️ How to Run:
 
 1. Install Python (3.8+)
@@ -51,17 +63,7 @@ python movie_ticket_booking_system.py
 
 
 
-## 📌 Example Output:
 
-Enter your age: 22
-Enter seat type (Premium/Gold/Regular): Gold
-Enter show time (Morning/Evening): Evening
-Are you a member? (yes/no): yes
-Is it weekend? (yes/no): no
-
-Final price of ticket: $17
-
----
 
 ## 🎯 Purpose of Project:
 
